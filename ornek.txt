@@ -1,16 +1,13 @@
 premier ligne
 deuxieme ligne
 troisieme lige
-<<<<<<< HEAD
 1master
 2master
 3master
 
 4master
 
-=======
 1yeni
 2yeni
 
 3yeni
->>>>>>> yeni
